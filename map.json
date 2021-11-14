@@ -28,7 +28,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openTab",
+                 "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/ctfd.gematik.de\/workadventure\/site\/ti_park\/wohnung.html"
                 }],
@@ -46,7 +46,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openTab",
+                 "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/ctfd.gematik.de\/workadventure\/site\/ti_park\/arzt.html"
                 }],
@@ -64,7 +64,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openTab",
+                 "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/ctfd.gematik.de\/workadventure\/site\/ti_park\/krankenhaus.html"
                 }],
@@ -82,7 +82,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openTab",
+                 "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/ctfd.gematik.de\/workadventure\/site\/ti_park\/apotheke.html"
                 }],
