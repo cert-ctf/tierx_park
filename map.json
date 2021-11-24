@@ -103,6 +103,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/ctfd.gematik.de\/workadventure\/site\/ti_park\/map.html"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
