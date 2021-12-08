@@ -125,7 +125,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"park16"
+                 "value":"park32"
                 }],
          "type":"tilelayer",
          "visible":true,
